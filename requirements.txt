@@ -1,0 +1,4 @@
+Flask>=2.2,<3
+pycryptodome
+python-dotenv
+flask-cors
